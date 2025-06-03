@@ -35,7 +35,7 @@ I'm a passionate Data Science professional currently pursuing my Master's in Dat
 
 ## 📫 Connect with Me
 - **Email:** [luca.dicola@studenti.unitn.it](mailto:luca.dicola@studenti.unitn.it)
-- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin](www.linkedin.com/in/luca-di-cola-7b6133226))
+- **LinkedIn:** [LinkedIn Profile]((www.linkedin.com/in/luca-di-cola-7b6133226))
 
 ---
 
