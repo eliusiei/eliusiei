@@ -14,7 +14,7 @@ I'm a passionate Data Science professional currently pursuing my Master's in Dat
 ---
 
 ## 🚀 Projects
-- **[Analyzing Financial Data]([https://github.com/Muckthebuck/NoiseResolution-HighDimData])** (Nov 2024)  
+- **[Analyzing Financial Data](https://github.com/Muckthebuck/NoiseResolution-HighDimData)** (Nov 2024)  
   *Used random matrix theory to analyze Financial Data at the University of Melbourne*
   
 ---
