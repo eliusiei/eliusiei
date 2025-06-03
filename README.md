@@ -1,6 +1,6 @@
 ## Hi there, I am Luca Di Cola! 👋
 
-I'm a passionate Data Science professional currently pursuing my Master's in Data Science at Università di Trento. I specialize in machine learning, predictive analytics, and big data technologies, with a keen interest in building scalable data pipelines, robust predictive models, and insightful visualizations.
+I'm a passionate Data Science professional currently pursuing my Master's in Data Science at Università di Trento. I specialize in machine learning, predictive analytics, and visualizations. I love to share results to stakeholders, to do presentations, and to use data to understand what is best for the both the customer and the organization.
 
 ---
 
